@@ -36,5 +36,5 @@ Alunos: Gabriel Faria,Zandor e Pedro Samuel
 - **Detecção de colisões:** Uma abordagem eficiente foi utilizada para identificar interações entre o jogador, plataformas, inimigos e moedas, reduzindo verificações desnecessárias.  
 - **Comportamento dos inimigos:** Os inimigos seguem padrões programados que garantem desafios ao jogador, mantendo a complexidade gerenciável.
 
-## Regras do Jogo:
+## :page_facing_up: Regras do Jogo:
 No jogo, o personagem pode ser controlado com as seguintes teclas: a barra de espaço é usada para pular, A para mover para trás, D para mover para frente e o Ctrl esquerdo para realizar o dash.
