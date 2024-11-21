@@ -36,6 +36,38 @@ Alunos: Gabriel Faria,Zandor e Pedro Samuel
 - **Detecção de colisões:** Uma abordagem eficiente foi utilizada para identificar interações entre o jogador, plataformas, inimigos e moedas, reduzindo verificações desnecessárias.  
 - **Comportamento dos inimigos:** Os inimigos seguem padrões programados que garantem desafios ao jogador, mantendo a complexidade gerenciável.
 
+## 📝 CheckList  
+
+### ✔️ **Definição do Tema**  
+- **[Pedro]** Problema selecionado e claramente definido.  
+- **[Zandor]** Compreensão aprofundada da natureza e dos desafios do problema.  
+- **[Gabriel]** Modelo matemático ou teórico desenvolvido para representar o problema.  
+
+### ✔️ **Fase 2: Planejamento**  
+- **[Zandor]** Propósito do algoritmo definido.  
+- **[Pedro]** Métricas estabelecidas para avaliação da eficiência do algoritmo.  
+- **[Zandor]** Estratégia geral de solução para os casos definida.  
+- **[Pedro]** Subproblemas identificados e divididos, quando aplicável.  
+- **[Zandor]** Estrutura geral do algoritmo esboçada.  
+- **[Pedro]** Casos limite ou situações especiais identificados.  
+- **[Zandor]** Análise teórica realizada para verificar a correção do algoritmo.  
+
+### ✔️ **Fase 3: Desenvolvimento e Sketch**  
+- **[Gabriel]** Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.  
+- **[Gabriel]** Pontos críticos do algoritmo identificados para possíveis otimizações.  
+
+### ✔️ **Fase 4: Testes**  
+- **[Gabriel]** Algoritmo traduzido com precisão para código de programação.  
+- **[Zandor]** Código escrito de forma clara e organizada.  
+- **[Pedro]** Testes rigorosos realizados em diversos casos de teste.  
+- **[Zandor]** Erros identificados durante os testes foram corrigidos.  
+
+### ✔️ **Fase 5: Documentação**  
+- **[Gabriel]** Documentação completa e revisada para descrição do projeto.  
+- **[Zandor]** Avaliação da otimização do algoritmo e do tempo de processamento.  
+- **[Pedro]** Avaliação da colaboração da equipe e do cumprimento do prazo estabelecido.  
+
+
 ## :page_facing_up: Regras do Jogo
 No jogo, o personagem pode ser controlado com as seguintes teclas: a barra de espaço é usada para pular, A para mover para trás, D para mover para frente e o Ctrl esquerdo para realizar o dash.
 
