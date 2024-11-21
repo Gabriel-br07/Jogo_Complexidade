@@ -74,3 +74,7 @@ No jogo, o personagem pode ser controlado com as seguintes teclas: a barra de es
 ## :dart: Jogo
 
 https://zandorduarte.itch.io/jornada-do-redd
+
+## 🎥 Vídeo sobre o jogo
+
+https://www.youtube.com/watch?v=PsOHAS3OqN0
