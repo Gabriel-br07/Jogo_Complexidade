@@ -3,7 +3,11 @@
 ## :joystick: Jornada do Redd
 Jogo em 2D desenvolvido no GDevelop 5, uma plataforma low-code para criação de jogos de plataforma. O jogo possui mecânicas de dash, pulo, movimentação para frente e para trás, além de um tutorial para ensinar o jogador. Ele inclui inimigos, um chefe (boss) e moedas como recompensas para o usuário. Este projeto foi desenvolvido como parte da disciplina de Complexidade de Algoritmos no 6° semestre
 
-Alunos: Gabriel Faria,Zandor e Pedro Samuel
+
+### Alunos: 
+- 👤 Pedro Samuel | RGM: 29697000
+- 👤 Gabriel Oliveira Faria | RGM: 29615267
+- 👤 Zandor Duarte | RGM: 29693829
 
 ## :chess_pawn: Sobre o jogo
 
